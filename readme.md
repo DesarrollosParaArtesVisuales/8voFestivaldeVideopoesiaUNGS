@@ -1,3 +1,3 @@
-# 8Vo Festival de Videopoesía UNGS
+# 8vo Festival de Videopoesía UNGS
 
-https://desarrollosparaartesvisuales.github.io/8VoFestivaldeVideopoesiaUNGS/index.html
+https://desarrollosparaartesvisuales.github.io/8voFestivaldeVideopoesiaUNGS/index.html
